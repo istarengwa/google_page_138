@@ -1,0 +1,6 @@
+.parent {
+    display: flex; /* On met les enfants en ligne */
+    justify-content: space-between; /* La première div va à gauche, la deuxième à droite */
+    align-items: center; /* Alignement vertical */
+    padding: 10px; /* Un peu d'espace autour */
+}
